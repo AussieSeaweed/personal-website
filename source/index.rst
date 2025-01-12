@@ -20,4 +20,7 @@ If you have any questions about my work (e.g., `PokerKit <https://github.com/uof
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :caption: Poker Programming
+
+   poker-programming/pokerkit-reflection
