@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'personal-blog'
+project = 'Swordland'
 copyright = '2025, Juho Kim'
 author = 'Juho Kim'
 release = '0.0.0'
@@ -16,13 +16,11 @@ release = '0.0.0'
 
 extensions = []
 
-templates_path = ['_templates']
+templates_path = []
 exclude_patterns = []
-
-
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'alabaster'
-html_static_path = ['_static']
+html_static_path = []
