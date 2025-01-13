@@ -6,7 +6,7 @@
 Main Page
 =========
 
-My name is Juho, and I'm a final-year undergrad at the University of Toronto. My `CV <https://github.com/AussieSeaweed/personal-cv/releases/latest/download/main.pdf>`_, `GitHub <https://github.com/AussieSeaweed>`_, `Google Scholar <https://scholar.google.com/citations?user=iHbLHD0AAAAJ>`_, `blog (this site) <https://sword.land/>`_, `LinkedIn <https://www.linkedin.com/in/aussieseaweed/>`_, and `email <mailto:juho-kim@outlook.com>`_ can be accessed from `my landing page <https://juhokim.net>`_.
+My name is Juho, and I'm a final-year undergrad at the University of Toronto. My `CV <https://github.com/AussieSeaweed/personal-cv/releases/latest/download/main.pdf>`_, `GitHub <https://github.com/AussieSeaweed>`_, `Google Scholar <https://scholar.google.com/citations?user=iHbLHD0AAAAJ>`_, `blog (this site) <https://aussieseaweed.com/>`_, `LinkedIn <https://www.linkedin.com/in/aussieseaweed/>`_, and `email <mailto:juho-kim@outlook.com>`_ can be accessed from `my landing page <https://juhokim.net>`_.
 
 I enjoy writing code, especially in (computational) game theory, computer games, and computer poker. I'm also really interested in topics of symbolic computation, (parts of) software engineering, and generative art (**not** generative AI).
 

@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Swordland'
+project = 'AussieSeaweed'
 copyright = '2025, Juho Kim'
 author = 'Juho Kim'
 release = '0.0.0'
