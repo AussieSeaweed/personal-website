@@ -1,0 +1,36 @@
+Reflection on PHH
+=================
+
+What is interesting about poker is that despite its massive popularity and the sheer amount of money involved, it lacks an adequate open-source software ecosystem for even the most mundane tasks. One obvious example was the lack of a good software library that encodes the rules of poker. I filled this particular gap with my `PokerKit <https://github.com/uoftcprg/pokerkit>`_ project. In my previous reflection on PokerKit, I mentioned how PokerKit originates from an online poker platform I designed for the `University of Toronto Poker Club <https://uoftpoker.com/>`_.
+
+One feature I wanted to implement in my online poker operation was recording hands that were played on the site. Initially, I thought there had to be a trivial open format for this purpose as they exist for other tabletop games (e.g., the `Smart Game Format <https://senseis.xmp.net/?SmartGameFormat>`_ for go). But despite my extensive search, I wasn't able to find **any** open format.
+
+I played poker on PokerStars and I knew that I could export poker hands from their client (albeit in a proprietary format). After my initial assumption was proven wrong, I decided to simply record poker hands in the same manner PokerStars does. It didn't take me long to realize that even this is impossible as PokerStars does not have a specification or even documentation on how they log hand histories! The same was true for all other online poker rooms I looked at.
+
+I would like to clarify that, back then, I did overlook an existing `ACPC Protocol Specification <http://www.computerpokercompetition.org/downloads/documents/protocols/protocol.pdf>`_. But, both proprietary logs and ACPC specification suffer from several defects that I find cannot be compromised. An in-depth discussion of these formats is available on `my conference paper <https://doi.org/10.1109/CoG60054.2024.10645611>`_. I will not repeat them here.
+
+While I never got to the point of implementing the hand-saving feature in the club's poker room, I did come up with and implement an action notation system to help me write poker hands for testing the PokerFace library (a predecessor of PokerKit). However, I never got to the point of deciding how to record other information like the game information, starting stacks, or writing a formal specification for it.
+
+From my manager in my PEY co-op internship, I had the pleasure of being introduced to Professor Michael Stumm who also taught my systems class in my third year (2022 winter). Accepting my request to supervise me for a research project, Professor Stumm told me to come up with a capstone project topic. From a number of topics I proposed, he thought an online poker room idea was the most interesting. The arrangement I had for the capstone project with the professor was quite unusual, but I will save this story for another time.
+
+In one of the biweekly meetings we had throughout the capstone project, when I brought up the lack of an open format of poker hands, he thought that coming up with a poker hand history format would be an interesting work to do, and might even be publishable. That was a surprise... I didn't think a work on recording poker hands would be publishable. I quickly wrote up a 12-page specification of what I named the `poker hand history (PHH) file format <https://arxiv.org/abs/2312.11753v1>`_ and showed it to the professor in the following biweekly meeting.
+
+With positive feedback, I decided to submit it to a venue. Instead of the IEEE Transactions on Games (where I previously published the `PokerKit paper <https://doi.org/10.1109/TG.2023.3325637>`_), I wanted to try the Elsevier family of journals. But, my submissions were quickly desk-rejected (although with helpful feedback). A subsequent submission I made to the IEEE Transactions on Games was also desk rejected as the associate editor doubted its scientific merit.
+
+Remember that I was just a completely clueless undergraduate student back then! Feeling a bit down, I went back to the drawing board to figure out how to get this paper through. I quickly identified that the idea of publishing a raw specification in (say) a journal would be highly unusual. There was a need to radically reframe the paper... As for the specification itself, I came to a decision to simply make it available on the `web <https://phh.readthedocs.io/>`_ and call it a day. Meanwhile, I would write a paper that **introduces** this format, thereby avoiding the harsh language and writing typical to specifications.
+
+I asked for feedback on the updated manuscript from my undergraduate thesis advisor -- Professor Michael Guerzhoy -- who thought the paper was interesting. Professor Guerzhoy introduced me to Professor Todd W. Neller of Gettysburg College who also gave positive feedback. He also thought that the modest venue I picked for this work -- 2024 IEEE Conference on Games -- was a reasonable choice. Feeling encouraged, in February 2024, I submitted the manuscript to the conference and hoped for the best.
+
+The wait wasn't long as I got a notification of acceptance in April! Later in August, I presented the work at the conference, held in Milan.
+
+With the conference over, I thought my journey with PHH was pretty much over. But, fate had more in store for me, as the IEEE Transactions on Games invited me to expand on my conference publication for the Best of CoG issue. I decided to enhance the original contribution by implementing hand history parsers for converting proprietary logs from different poker platforms to the PHH format and releasing a large-scale dataset of poker hands.
+
+After months of hard work, I managed to submit the expanded version of the paper on October 27, 2024. The paper is currently under review at the time of the writing, but I will most likely get the results back soon (probably this week). I have some interesting stories to share for this particular work as well, but I will reserve them for my next reflection focusing on the poker hand datasets.
+
+I already mentioned my goal of bringing about a "truly" superhuman poker AI agent in my previous post. PHH is yet another piece of the puzzle for completing my vision. It goes beyond just being a medium of recording poker hands. I envision PHH as forming a part of a protocol for querying AI agents.
+
+Intuitively, PHH hands can record incomplete hands. By sending these incomplete hand descriptions to poker AI agents, the action probabilities appropriate for the situation can be queried. Through the use of the PHH format, what can be specified in a hand goes beyond just starting stacks, action sequences, or the game being played. Indeed, users can specify other information like the venue, player names, time of play, location, and more. Maybe knowing the identity of the opponents can enable exploitative play. Or, perhaps player patterns are different during nighttime or in certain geographical locations, yielding new opportunities to exploit!
+
+Existing offerings that claim to be a superhuman poker AI, even those widely praised by the industry or academia, are, in my view, borderline-fraudulent works that fall far short of being "truly" superhuman. PokerKit and PHH cover just a tiny part of my journey of developing a truly superhuman poker AI agent. I see a long road ahead of me.
+
+January 13, 2025

@@ -24,3 +24,4 @@ If you have any questions about my work (e.g., `PokerKit <https://github.com/uof
    :caption: Poker Programming
 
    poker-programming/pokerkit-reflection
+   poker-programming/phh-reflection
