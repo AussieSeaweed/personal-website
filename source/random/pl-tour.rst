@@ -126,7 +126,9 @@ TODO
 `Haskell <https://www.haskell.org/>`_
 -------------------------------------
 
-TODO
+Someone once asked me, after looking at my Python code, whether or not I know Haskell. I didn't back then, but I wasn't sure if that was a compliment. After getting familiar with functional programming, I am starting to think it was, although the short tutorial I tried on their website doesn't seem to do justice to the language. Overall, it seems more or less similar to OCaml which I just learned. I have yet to learn some concepts I know exist in Haskell like Monads.
+
+`Januar 19, 2025 <https://www.haskell.org/>`_
 
 `INTERCAL <https://en.wikipedia.org/wiki/INTERCAL>`_
 ----------------------------------------------------
