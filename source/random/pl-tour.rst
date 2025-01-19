@@ -237,7 +237,11 @@ TODO
 `Ruby <https://www.ruby-lang.org/en/>`_
 ---------------------------------------
 
-TODO
+I heard that a skilled web developer can set up a website with Ruby on Rails in just five minutes. There is no question that Ruby is widely used for web applications (e.g., Rails and Jekyll). But, is Ruby used for anything other than the web? I genuinely don't know.
+
+As a programming language, however, I do admire Matz's steadfast defense of dynamic typing, especially when strict programming practices have become such a norm. With that said, I would choose to use Python over Ruby for most tasks.
+
+`January 19, 2025 <https://www.ruby-lang.org/en/documentation/quickstart/>`_
 
 `Rust <https://www.rust-lang.org/>`_
 ------------------------------------
