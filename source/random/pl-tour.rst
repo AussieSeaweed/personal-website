@@ -173,7 +173,9 @@ TODO
 `OCaml <https://ocaml.org/>`_
 -----------------------------
 
-TODO
+The language of Jane Street! This is also the first time I've ever tried out a functional programming language, and boy was I in for a treat... Everything feels elegant and without waste. It overcomes so many of the issues I encountered with traditional imperative programming languages. I am concerned about its (and functional programming languages') performance however, given that (almost) everything is to be implemented recursively.
+
+`January 19, 2025 <https://ocaml.org/docs/tour-of-ocaml>`_
 
 `Objective C <https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html>`_
 ----------------------------------------------------------------------------------------------------------------------------------------------------
