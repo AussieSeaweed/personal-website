@@ -109,7 +109,9 @@ TODO
 `Fortran <https://fortran-lang.org/>`_
 --------------------------------------
 
-TODO
+Who'd have known I would get a taste of punch card programming learning Fortran? Fortran's array mechanism feels impressively modern, considering its age. Still, as a whole, the language feels old and clunky, with many strange design decisions. To me, it feels like a relic of the past, and definitely unsuited for writing an entirely new project with.
+
+`January 19, 2025 <https://fortran-lang.org/learn/quickstart/>`_
 
 `Go <https://go.dev/>`_
 -----------------------
