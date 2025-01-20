@@ -31,11 +31,6 @@ TODO
 
 TODO
 
-`Brainfuck <https://brainfuck.org/>`_
--------------------------------------
-
-TODO
-
 `C <https://www.iso.org/standard/82075.html>`_
 ----------------------------------------------
 
@@ -133,11 +128,6 @@ A skilled programmer, after looking at my Python code, once asked me whether or 
 After getting familiar with functional programming (previously OCaml and now Haskell), I am quite certain it was indeed a compliment! However, the short 5-minute tutorial I tried on their website doesn't seem to do justice to the language. Overall, it seems more or less similar to OCaml which I just learned. I have yet to learn some concepts I know exist in Haskell like Monads. I might come back to this to learn more.
 
 `Januar 19, 2025 <https://www.haskell.org/>`_
-
-`INTERCAL <https://en.wikipedia.org/wiki/INTERCAL>`_
-----------------------------------------------------
-
-TODO
 
 `Java <https://www.java.com/en/>`_
 ----------------------------------
