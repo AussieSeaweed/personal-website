@@ -24,11 +24,6 @@ TODO
 
 TODO
 
-`Assembly <https://en.wikipedia.org/wiki/Assembly_language>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-TODO
-
 `AWK <https://en.wikipedia.org/wiki/AWK>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -107,7 +102,9 @@ TODO
 `Fortran <https://fortran-lang.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Who'd have known I would get a taste of punch card programming by learning Fortran? Fortran's array mechanism feels impressively modern, considering its age. Still, as a whole, the language feels old and clunky, with many strange design decisions. To me, it feels like a relic of the past, and definitely unsuited for writing an entirely new project with.
+Who'd have known I would get a taste of punch card programming by learning Fortran (``.f`` files)? Fortran's array mechanism feels impressively modern, considering its age. Still, as a whole, the language feels old and clunky, with many strange design decisions. To me, it feels like a relic of the past, and definitely unsuited for writing an entirely new project with.
+
+Speaking of, why on earth is Fortran ranked tenth on the `TIOBE index <https://www.tiobe.com/tiobe-index/>`_, ahead of languages like PHP, Rust, MATLAB, Ruby, R, and Swift?
 
 `January 19, 2025 <https://fortran-lang.org/learn/quickstart/>`_
 
@@ -153,11 +150,6 @@ TODO
 Kotlin has a beautiful design that surpasses even that of Scala. It also represents one of the rare cases where builtins actually follow their own naming conventions and style guides (unlike, say, Python). JVM compatibility and compilation to JavaScript are great. However, the platform-dependent standard library support is a bit confusing.
 
 `January 18, 2025 <https://kotlinlang.org/docs/kotlin-tour-welcome.html>`_
-
-`LLVM IR <https://llvm.org/>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-TODO
 
 `Lean <https://lean-lang.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
