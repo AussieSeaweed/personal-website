@@ -263,4 +263,6 @@ TODO
 `Zig <https://ziglang.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TODO
+I was quite surprised to find that Vim has an excellent built-in plugin for Zig. Their brief but extremely technical overview sure convinced me of its overwhelming advantages over C (built-in error handling, null safety, reflection, tracing, etc.) and its unbelievable interoperability with C. What is particularly ambitious is that Zig seeks to be an alternative to even C compilers and make systems, allowing an easy and gradual transition from C to Zig for legacy projects. I have to confess that I was unable to fully understand every single part of the overview. This is definitely a language I will keep an eye on.
+
+`January 20, 2025 <https://ziglang.org/learn/overview/>`_
