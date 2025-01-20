@@ -181,11 +181,6 @@ The language of Jane Street! This is also the first time I've ever tried out a f
 
 TODO
 
-`Objective C++ <https://packages.ubuntu.com/noble/gobjc++>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-TODO
-
 `Perl <https://www.perl.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
