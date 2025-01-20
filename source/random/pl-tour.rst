@@ -109,7 +109,7 @@ TODO
 `Fortran <https://fortran-lang.org/>`_
 --------------------------------------
 
-Who'd have known I would get a taste of punch card programming learning Fortran? Fortran's array mechanism feels impressively modern, considering its age. Still, as a whole, the language feels old and clunky, with many strange design decisions. To me, it feels like a relic of the past, and definitely unsuited for writing an entirely new project with.
+Who'd have known I would get a taste of punch card programming by learning Fortran? Fortran's array mechanism feels impressively modern, considering its age. Still, as a whole, the language feels old and clunky, with many strange design decisions. To me, it feels like a relic of the past, and definitely unsuited for writing an entirely new project with.
 
 `January 19, 2025 <https://fortran-lang.org/learn/quickstart/>`_
 
@@ -128,7 +128,9 @@ TODO
 `Haskell <https://www.haskell.org/>`_
 -------------------------------------
 
-Someone once asked me, after looking at my Python code, whether or not I know Haskell. I didn't back then, but I wasn't sure if that was a compliment. After getting familiar with functional programming, I am starting to think it was, although the short tutorial I tried on their website doesn't seem to do justice to the language. Overall, it seems more or less similar to OCaml which I just learned. I have yet to learn some concepts I know exist in Haskell like Monads.
+A skilled programmer, after looking at my Python code, once asked me whether or not I know Haskell. Back then, I have never done any functional programming. So, I said no, and he seemed intrigued. I wasn't sure, but I had a feeling he meant that as a compliment!
+
+After getting familiar with functional programming (previously OCaml and now Haskell), I am quite certain it was indeed a compliment! However, the short 5-minute tutorial I tried on their website doesn't seem to do justice to the language. Overall, it seems more or less similar to OCaml which I just learned. I have yet to learn some concepts I know exist in Haskell like Monads. I might come back to this to learn more.
 
 `Januar 19, 2025 <https://www.haskell.org/>`_
 
