@@ -17,7 +17,9 @@ Notes
 `Ada <https://www.adaic.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TODO
+Ada is a language I've been interested in a long time, considering that it powers safety-critical use cases like fighter jets and space shuttles. Only now have I given it a proper look. The language's strong typing system is definitely an intriguing feature. Numeric types that can be constrained to a range of values and unsigned "modulus" types that wraps around an arbitrary value are simply unheard of. They would be quite convenient for some competitive programming tasks I am used to. In addition, the ability to derive separate numeric types (e.g., different units, IDs) seems useful for domain-specific use cases (e.g., scientific). One drawback is that its prose syntax is somewhat unaesthetic. Regardless, a memerable language indeed.
+
+`January 23, 2025 <https://learn.adacore.com/courses/intro-to-ada/>`_
 
 `ALGOL 68 <https://en.wikipedia.org/wiki/ALGOL_68>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -127,7 +129,7 @@ A skilled programmer, after looking at my Python code, once asked me whether or 
 
 After getting familiar with functional programming (previously OCaml and now Haskell), I am quite certain it was indeed a compliment! However, the short 5-minute tutorial I tried on their website doesn't seem to do justice to the language. Overall, it seems more or less similar to OCaml which I just learned. I have yet to learn some concepts I know exist in Haskell like Monads. I might come back to this to learn more.
 
-`Januar 19, 2025 <https://www.haskell.org/>`_
+`January 19, 2025 <https://www.haskell.org/>`_
 
 `Java <https://www.java.com/en/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -258,3 +260,102 @@ TODO
 I was quite surprised to find that Vim has an excellent built-in plugin for Zig. Their brief but extremely technical overview sure convinced me of its overwhelming advantages over C (built-in error handling, null safety, reflection, tracing, etc.) and its unbelievable interoperability with C. What is particularly ambitious is that Zig seeks to be an alternative to even C compilers and make systems, allowing an easy and gradual transition from C to Zig for legacy projects. I have to confess that I was unable to fully understand every single part of the overview. This is definitely a language I will keep an eye on.
 
 `January 20, 2025 <https://ziglang.org/learn/overview/>`_
+
+Projects
+--------
+
+My goal is to write a meaningful family of software tools, application programs, or infrastructures dedicated to a single topic for each programming language explored. It will certainly take a long time to finish this table.
+
++----------------------+-------------------------+
+| Programming Language | Topic(s)                |
++======================+=========================+
+| Ada                  |                         |
++----------------------+-------------------------+
+| ALGOL 68             |                         |
++----------------------+-------------------------+
+| AWK                  |                         |
++----------------------+-------------------------+
+| C                    |                         |
++----------------------+-------------------------+
+| C#                   |                         |
++----------------------+-------------------------+
+| C++                  |                         |
++----------------------+-------------------------+
+| COBOL                |                         |
++----------------------+-------------------------+
+| Chez Scheme          |                         |
++----------------------+-------------------------+
+| Chicken              |                         |
++----------------------+-------------------------+
+| Clojure              |                         |
++----------------------+-------------------------+
+| Common Lisp          |                         |
++----------------------+-------------------------+
+| D                    |                         |
++----------------------+-------------------------+
+| Dart                 |                         |
++----------------------+-------------------------+
+| Elixir               |                         |
++----------------------+-------------------------+
+| Erlang               |                         |
++----------------------+-------------------------+
+| F#                   |                         |
++----------------------+-------------------------+
+| Forth                |                         |
++----------------------+-------------------------+
+| Fortran              |                         |
++----------------------+-------------------------+
+| Go                   |                         |
++----------------------+-------------------------+
+| Groovy               |                         |
++----------------------+-------------------------+
+| Haskell              |                         |
++----------------------+-------------------------+
+| Java                 |                         |
++----------------------+-------------------------+
+| JavaScript           |                         |
++----------------------+-------------------------+
+| Julia                |                         |
++----------------------+-------------------------+
+| Kotlin               |                         |
++----------------------+-------------------------+
+| Lean                 |                         |
++----------------------+-------------------------+
+| Lua                  |                         |
++----------------------+-------------------------+
+| OCaml                | Computer Algebra System |
++----------------------+-------------------------+
+| Objective C          |                         |
++----------------------+-------------------------+
+| Perl                 |                         |
++----------------------+-------------------------+
+| PHP                  |                         |
++----------------------+-------------------------+
+| Pascal               |                         |
++----------------------+-------------------------+
+| Pike                 |                         |
++----------------------+-------------------------+
+| Prolog               |                         |
++----------------------+-------------------------+
+| Python               | Poker Programming       |
++----------------------+-------------------------+
+| R                    |                         |
++----------------------+-------------------------+
+| Raku                 |                         |
++----------------------+-------------------------+
+| Racket               |                         |
++----------------------+-------------------------+
+| Ruby                 |                         |
++----------------------+-------------------------+
+| Rust                 |                         |
++----------------------+-------------------------+
+| Scala                |                         |
++----------------------+-------------------------+
+| Swift                |                         |
++----------------------+-------------------------+
+| Tcl                  |                         |
++----------------------+-------------------------+
+| Visual Basic         |                         |
++----------------------+-------------------------+
+| Zig                  |                         |
++----------------------+-------------------------+
