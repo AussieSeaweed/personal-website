@@ -17,9 +17,9 @@ Notes
 `Ada <https://www.adaic.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Ada is a language I've been interested in a long time, considering that it powers safety-critical use cases like fighter jets and space shuttles. Only now have I given it a proper look. The language's strong typing system is definitely an intriguing feature. Numeric types that can be constrained to a range of values and unsigned "modulus" types that wraps around an arbitrary value are simply unheard of. They would be quite convenient for some competitive programming tasks I am used to. In addition, the ability to derive separate numeric types (e.g., different units, IDs) seems useful for domain-specific use cases (e.g., scientific). One drawback is that its prose syntax is somewhat unaesthetic. Regardless, a memerable language indeed.
+Ada is a language I've been interested in a long time, considering that it powers safety-critical use cases like fighter jets and space shuttles. Only now have I given it a proper look. The language's extremely strong typing system and design-by-contract features are very intriguing. Indeed, numeric types that can be constrained to a range of values and unsigned "modulus" types that wraps around an arbitrary value are simply unheard of in other more mainstream languages, and they would be quite convenient for some competitive programming tasks I am used to. In addition, the ability to derive separate numeric types (e.g., different units, IDs) seems useful for domain-specific use cases (e.g., scientific). One major drawback is that its prose syntax is very verbose and unaesthetic, at least for me. Regardless, Ada is a memerable language that I might return to. I would like to see some of Ada's features implemented to type systems of other languages (even Python!).
 
-`January 23, 2025 <https://learn.adacore.com/courses/intro-to-ada/>`_
+`January 28, 2025 <https://learn.adacore.com/courses/intro-to-ada/>`_
 
 `ALGOL 68 <https://en.wikipedia.org/wiki/ALGOL_68>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
