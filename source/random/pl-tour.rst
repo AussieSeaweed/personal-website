@@ -39,7 +39,9 @@ TODO
 `C# <https://learn.microsoft.com/en-us/dotnet/csharp/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TODO
+I was caught off-guard by how modern the design of C# was, considering the letter "C" in its name. However, It did come off as a bit of a Java copycat. I definitely plan on using C# for a future project, perhaps using ASP.NET or involving GUIs.
+
+`January 28, 2025 <https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview>`_
 
 `C++ <https://isocpp.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
