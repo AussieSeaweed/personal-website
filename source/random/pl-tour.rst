@@ -76,7 +76,9 @@ TODO
 `D <https://dlang.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TODO
+D is a seriously underrated language. It has a beautiful modern syntax that comes close to, or, in some cases, surpasses that of Kotlin (my favourite language). For example, D's novel innovations like the uniform function call syntax (UFCS), an ability to put unit tests and implementations in the same file, the pure specifier, subtyping (alias), opDispatch/Apply, and a rich library of compile-time facilities feel so natural and painfully obvious. It is really a shame that D is so neglected just because it is not backed by any big company like Go (Google), Rust (Mozilla), and Swift (Apple).
+
+`February 3, 2025 <https://tour.dlang.org/>`_
 
 `Dart <https://dart.dev/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
