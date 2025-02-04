@@ -1,13 +1,9 @@
 Tour of PLs
 ===========
 
-In the coming summer of 2025, I plan on undertaking a major software project to develop a computer algebra system (and maybe an entirely new programming language). In my past attempts as far back as when I was in high school, I found that the programming languages I tried out were inadequate in addressing my needs and therefore hindered the development process.
-
-I feel like the set of programming languages I am familiar with or have used in the past is limited in scope and not representative of the broad options that are available for use.
-
-As such, I plan on undertaking a search for the perfect programming language. For each language I explore, I aim to do a short tour of the language to get my toes wet. My goal is not a mastery of the language but rather a survey of it. In my tours, I aim to use the reference implementations when available. When there exists no reference implementation (or such a concept does not apply) for a particular language, I will use the most popular implementation available for the language.
-
 The selections listed below, sourced from `DMOJ <https://dmoj.ca/runtimes/>`_ and the `TIOBE Index <https://www.tiobe.com/tiobe-index/>`_, contain a diverse range of both widely-used and esoteric programming languages. Some of these are languages I am already very familiar with, but I will re-explore them anyway. Empty tour entries indicates that the corresponding language has not yet been explored.
+
+For each language I explore, I aim to do a short tour of the language to get my toes wet. My goal is not a mastery of the language but rather a survey of it. In my tours, I aim to use the reference implementations when available. When there exists no reference implementation (or such a concept does not apply) for a particular language, I will use the most popular implementation available for the language.
 
 January 16, 2025
 
@@ -202,7 +198,7 @@ TODO
 `Prolog <https://www.iso.org/standard/21413.html>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TODO
+`<https://lpn.swi-prolog.org/lpnpage.php?pageid=online>`_
 
 `Python <https://www.python.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
