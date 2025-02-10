@@ -31,6 +31,6 @@ I already mentioned my goal of bringing about a "truly" superhuman poker AI agen
 
 PHH hands can be used to record not only complete hands but also incomplete ones. By sending these incomplete hand descriptions to poker AI agents, the action probabilities appropriate for the situation can be queried. Through the use of the PHH format, what can be specified in a hand goes beyond just starting stacks, action sequences, or the game being played. Indeed, users can specify other information like the venue, player names, time of play, location, and more. Maybe knowing the identity of the opponents can enable exploitative play. Or, perhaps player patterns are different during nighttime or in certain geographical locations, yielding new opportunities to exploit!
 
-Existing offerings that claim to be a superhuman poker AI, even those widely praised by the industry or academia, are, in my view, borderline-fraudulent works that fall far short of being "truly" superhuman. PokerKit and PHH cover just a tiny part of my journey of developing a truly superhuman poker AI agent. I see a long road ahead of me.
+Existing offerings that claim to be a superhuman poker AI, even those widely praised by the industry or academia, in my view, fall far short of being "truly" superhuman. PokerKit and PHH cover just a tiny part of my journey of developing a truly superhuman poker AI agent. I see a long road ahead of me.
 
 January 13, 2025
