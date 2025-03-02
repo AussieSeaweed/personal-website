@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Aussie Seaweed'
+project = 'Juho\'s Website'
 copyright = '2025, Juho Kim'
 author = 'Juho Kim'
 release = ''
@@ -24,4 +24,4 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = []
-html_title = 'AussieSeaweed.com'
+html_title = 'Juho\'s Website'

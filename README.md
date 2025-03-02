@@ -1,2 +1,2 @@
-# personal-blog
-My personal blog
+# personal-website
+My personal website

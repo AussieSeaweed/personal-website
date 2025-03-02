@@ -1,4 +1,4 @@
-.. personal-blog documentation master file, created by
+.. personal-website documentation master file, created by
    sphinx-quickstart on Sat Jan 11 00:02:47 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -6,7 +6,7 @@
 Main Page
 =========
 
-My name is Juho, and I'm a final-year undergrad at the University of Toronto and an incoming PhD student at Carnegie Mellon University. My `CV <https://github.com/AussieSeaweed/personal-cv/releases/latest/download/main.pdf>`_, `GitHub <https://github.com/AussieSeaweed>`_, `Google Scholar <https://scholar.google.com/citations?user=iHbLHD0AAAAJ>`_, `blog (this site) <https://aussieseaweed.com/>`_, `LinkedIn <https://www.linkedin.com/in/aussieseaweed/>`_, and `email <mailto:juho-kim@outlook.com>`_ can be accessed from `my landing page <https://juhokim.net>`_.
+My name is Juho, and I'm a final-year undergrad at the University of Toronto and an incoming PhD student at Carnegie Mellon University. My `CV <https://github.com/AussieSeaweed/personal-cv/releases/latest/download/main.pdf>`_, `GitHub <https://github.com/AussieSeaweed>`_, `Google Scholar <https://scholar.google.com/citations?user=iHbLHD0AAAAJ>`_, `website (this site) <https://juhokim.net/>`_, `LinkedIn <https://www.linkedin.com/in/aussieseaweed/>`_, and `email <mailto:juho-kim@outlook.com>`_ can be accessed from `my landing page <https://aussieseaweed.com>`_.
 
 I enjoy writing code, especially in (computational) game theory and computer games (mostly poker). I'm also really interested in topics of symbolic computation and (parts of) software engineering.
 
