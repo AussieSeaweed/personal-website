@@ -28,3 +28,4 @@ Please feel free to reach out to me `via email <mailto:juho-kim@outlook.com>`_.
    :caption: Random
 
    random/pl-tour
+   random/chopin-competition
