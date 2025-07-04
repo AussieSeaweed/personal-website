@@ -15,7 +15,9 @@ Notes
 
 Ada is a language I've been interested in for a long time, considering that it powers safety-critical use cases like fighter jets and space shuttles. Only now have I given it a proper look. The language's extremely strong typing system and design-by-contract features are very intriguing. Indeed, numeric types that can be constrained to a range of values and unsigned "modulus" types that wrap around an arbitrary value are simply unheard of in other more mainstream languages, and they would be quite convenient for some competitive programming tasks I am used to. In addition, the ability to derive separate numeric types (e.g., different units, IDs) seems useful for domain-specific use cases (e.g., scientific). One major drawback is that its prose syntax is very verbose and unaesthetic, at least for me. Regardless, Ada is a memorable language that I might return to. I would like to see some of Ada's features implemented to type systems of other languages (even Python!).
 
-`January 28, 2025 <https://learn.adacore.com/courses/intro-to-ada/>`_
+Introduction to Ada: https://learn.adacore.com/courses/intro-to-ada/
+
+January 28, 2025
 
 `ALGOL 68 <https://en.wikipedia.org/wiki/ALGOL_68>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -37,7 +39,9 @@ TODO
 
 I was caught off-guard by how modern the design of C# was, considering the letter "C" in its name. However, It did come off as a bit of a Java copycat. I definitely plan on using C# for a future project, perhaps using ASP.NET or involving GUIs.
 
-`January 28, 2025 <https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview>`_
+A tour of the C# language: https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview
+
+January 28, 2025
 
 `C++ <https://isocpp.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -74,7 +78,9 @@ TODO
 
 D is a seriously underrated language. It has a beautiful modern syntax that comes close to, or, in some cases, surpasses that of Kotlin (my favourite language). For example, D's novel innovations like the uniform function call syntax (UFCS), an ability to put unit tests and implementations in the same file, the pure specifier, subtyping (alias), opDispatch/Apply, and a rich library of compile-time facilities feel so natural and painfully obvious. It is really a shame that D is so neglected just because it is not backed by any big company like Go (Google), Rust (Mozilla), and Swift (Apple).
 
-`February 3, 2025 <https://tour.dlang.org/>`_
+DLang Tour: https://tour.dlang.org/
+
+February 3, 2025
 
 `Dart <https://dart.dev/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -108,14 +114,18 @@ Who'd have known I would get a taste of punch card programming by learning Fortr
 
 Speaking of, why on earth is Fortran ranked tenth on the `TIOBE index <https://www.tiobe.com/tiobe-index/>`_, ahead of languages like PHP, Rust, MATLAB, Ruby, R, and Swift?
 
-`January 19, 2025 <https://fortran-lang.org/learn/quickstart/>`_
+Quickstart Tutorial: https://fortran-lang.org/learn/quickstart/
+
+January 19, 2025
 
 `Go <https://go.dev/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 Essentially, a modern C, featuring garbage collection, larger standard libraries, easier parallelism, and saner design. Perfect for most concurrent programming tasks.
 
-`January 18, 2025 <https://go.dev/tour/list>`_
+A Tour of Go: https://go.dev/tour/list
+
+January 18, 2025
 
 `Groovy <https://groovy-lang.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -129,7 +139,9 @@ A skilled programmer, after looking at my Python code, once asked me whether or 
 
 After getting familiar with functional programming (previously OCaml and now Haskell), I am quite certain it was indeed a compliment! However, the short 5-minute tutorial I tried on their website doesn't seem to do justice to the language. Overall, it seems more or less similar to OCaml which I just learned. I have yet to learn some concepts I know exist in Haskell like Monads. I might come back to this to learn more.
 
-`January 19, 2025 <https://www.haskell.org/>`_
+Tutorial: https://www.haskell.org/
+
+January 19, 2025
 
 `Java <https://www.java.com/en/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -151,12 +163,22 @@ TODO
 
 Kotlin has a beautiful design that surpasses even that of Scala. It also represents one of the rare cases where builtins actually follow their own naming conventions and style guides (unlike, say, Python). JVM compatibility and compilation to JavaScript are great. However, the platform-dependent standard library support is a bit confusing.
 
-`January 18, 2025 <https://kotlinlang.org/docs/kotlin-tour-welcome.html>`_
+Take Kotlin tour: https://kotlinlang.org/docs/kotlin-tour-welcome.html
+
+January 18, 2025
 
 `Lean <https://lean-lang.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TODO
+I have always been interested in mathematics, but my undergraduate engineering program did not provide any opportunity to establish a formal mathematics background. Given that I will be studying game theory in my PhD program, I felt a profound need to improve my math skills over this summer. I decided to learn math while also learning automated theorem proving, which lies at the intersection of math and computer science. Of the interactive theorem provers out there, I decided to tackle Lean first as I was drawn by its modern and clean look.
+
+Over the past two months, I laboriously completed each and every problem in Heather Macbeth's book -- one of the learning resources recommended by Lean. I also liked it because it formed teaching material for an undergraduate mathematics course at Fordham University. I enjoyed this book as it provided a broad view of the field of mathematics and taught how they are integrated within Lean 4. The author also disabled or added certain facilities to force the reader to truly understand the mathematics behind some proofs. The drawback of this design choice is that readers may get used to using definitions that do not exist in Lean or learn to write Lean in a dialect of sorts (as I did).
+
+The Mechanics of Proof: https://hrmacbeth.github.io/math2001/
+
+My solutions: https://github.com/AussieSeaweed/math2001
+
+July 4, 2025
 
 `Lua <https://www.lua.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -168,7 +190,9 @@ TODO
 
 The language of Jane Street! This is also the first time I've ever tried out a functional programming language, and boy was I in for a treat... Everything feels elegant and without waste. It overcomes so many of the issues I encountered with traditional imperative programming languages. I am concerned about its (and functional programming languages') performance however, given that (almost) everything is to be implemented recursively.
 
-`January 19, 2025 <https://ocaml.org/docs/tour-of-ocaml>`_
+A Tour of OCaml: https://ocaml.org/docs/tour-of-ocaml
+
+January 19, 2025
 
 `Objective C <https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -198,7 +222,7 @@ TODO
 `Prolog <https://www.iso.org/standard/21413.html>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`<https://lpn.swi-prolog.org/lpnpage.php?pageid=online>`_
+Learn Prolog Now!: https://lpn.swi-prolog.org/lpnpage.php?pageid=online
 
 `Python <https://www.python.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -227,7 +251,9 @@ I heard that a skilled web developer can set up a website with Ruby on Rails in 
 
 As a programming language, however, I do admire Matz's steadfast defense of dynamic typing, especially when strict programming practices have become such a norm. With that said, I would choose to use Python over Ruby for most tasks.
 
-`January 19, 2025 <https://www.ruby-lang.org/en/documentation/quickstart/>`_
+Ruby in Twenty Minutes: https://www.ruby-lang.org/en/documentation/quickstart/
+
+January 19, 2025
 
 `Rust <https://www.rust-lang.org/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -259,4 +285,6 @@ TODO
 
 I was quite surprised to find that Vim has an excellent built-in plugin for Zig. Their brief but extremely technical overview sure convinced me of its overwhelming advantages over C (built-in error handling, null safety, reflection, tracing, etc.) and its unbelievable interoperability with C. What is particularly ambitious is that Zig seeks to be an alternative to even C compilers and make systems, allowing an easy and gradual transition from C to Zig for legacy projects. I have to confess that I was unable to fully understand every single part of the overview. This is definitely a language I will keep an eye on.
 
-`January 20, 2025 <https://ziglang.org/learn/overview/>`_
+Overview: https://ziglang.org/learn/overview/
+
+January 20, 2025

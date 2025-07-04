@@ -1,8 +1,8 @@
-International Chopin Piano Competition
-======================================
+Music
+=====
 
-XIX International Chopin Piano Competition (2025)
--------------------------------------------------
+XIX International Chopin Piano Competition
+------------------------------------------
 
 Preliminary stage
 ^^^^^^^^^^^^^^^^^
