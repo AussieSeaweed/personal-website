@@ -43,8 +43,6 @@ I've dedicated my time since creating PokerKit to fostering an open-source softw
 
 My ultimate goal is coming up with a truly superhuman poker artificial intelligence (AI) that does not rely on fake (very human) hand distributions like traditional solvers and is capable of supporting an arbitrary number of players, variants, and chip stacks.
 
-I feel very dubious about the whole concept of "game-theory optimal (GTO)" play in poker. Nobody seems to ask why different poker solvers give different outputs, and what happens when two players follow different solver outputs (I know the answers but does the average poker player?). Even before that, how did anyone come up with the preflop hand distributions? The whole state-of-the-art poker strategy seems like a big lie.
-
 I believe the key to truly superhuman poker AI is to start with a reasonable equilibrium play, and later converge to an exploitative solution based on opponent modeling. PokerKit will serve as the first step in the development of such AI by enabling game simulation and game tree extraction from arbitrary initial conditions.
 
 January 12, 2025
