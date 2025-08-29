@@ -14,7 +14,7 @@ My `CV <https://github.com/AussieSeaweed/personal-cv/releases/latest/download/ma
 My main research topics include computational game theory, computer games, and computational social sciences.
 I'm also interested in computational complexity, automated theorem proving, software engineering, and symbolic computation.
 
-Please feel free to reach out to me via email (juho-kim [at] outlook [dot] com).
+Please feel free to reach out to me via email (juhok [at] cs [dot] cmu [dot] edu).
 
 .. toctree::
    :maxdepth: 2
