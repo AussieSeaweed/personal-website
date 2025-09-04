@@ -6,7 +6,7 @@
 Main Page
 =========
 
-My name is Juho, and I'm a first-year PhD student in the `Computer Science Department <https://csd.cmu.edu/>`_ at Carnegie Mellon University.
+My name is Juho Kim, and I'm a first-year PhD student in the `Computer Science Department <https://csd.cmu.edu/>`_ at Carnegie Mellon University.
 I'm fortunate to be advised by `Professor Tuomas Sandholm <https://www.cs.cmu.edu/~sandholm/>`_.
 I obtained a BASc in Engineering Science at the University of Toronto where I completed my thesis with `Professor Michael Guerzhoy <https://www.cs.toronto.edu/~guerzhoy/>`_.
 
