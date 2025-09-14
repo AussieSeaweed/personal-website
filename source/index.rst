@@ -8,7 +8,7 @@ Main Page
 
 My name is Juho Kim, and I'm a first-year PhD student in the `Computer Science Department <https://csd.cmu.edu/>`_ at Carnegie Mellon University.
 I'm fortunate to be advised by `Professor Tuomas Sandholm <https://www.cs.cmu.edu/~sandholm/>`_.
-I obtained a BASc in Engineering Science at the University of Toronto where I completed my thesis with `Professor Michael Guerzhoy <https://www.cs.toronto.edu/~guerzhoy/>`_.
+I obtained a BASc in Engineering Science at the University of Toronto where I completed my thesis with `Professor Michael Guerzhoy <https://www.cs.toronto.edu/~guerzhoy/>`_ and capstone project with `Professor Michael Stumm <https://www.eecg.toronto.edu/~stumm/>`_.
 
 My main research topics include computational game theory, computer games, and computational humanities and social sciences.
 I'm also interested in computational complexity, automated theorem proving, software engineering, and symbolic computation.
