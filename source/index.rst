@@ -7,10 +7,10 @@ Main Page
 =========
 
 My name is Juho Kim, and I'm a first-year PhD student in the `Computer Science Department <https://csd.cmu.edu/>`_ at Carnegie Mellon University, advised by `Professor Tuomas Sandholm <https://www.cs.cmu.edu/~sandholm/>`_.
-I obtained a BASc in Engineering Science at the University of Toronto where I completed my thesis with `Professor Michael Guerzhoy <https://www.cs.toronto.edu/~guerzhoy/>`_ and capstone project with `Professor Michael Stumm <https://www.eecg.toronto.edu/~stumm/>`_.
+I obtained a BASc in Engineering Science at the University of Toronto, where I completed my thesis with `Professor Michael Guerzhoy <https://www.cs.toronto.edu/~guerzhoy/>`_ and capstone project with `Professor Michael Stumm <https://www.eecg.toronto.edu/~stumm/>`_.
 
 My main research topic is computational game theory.
-I'm also interested in computer games and computational humanities and social sciences.
+I'm also interested in computer games and computational social science.
 
 You can see my `CV <https://github.com/AussieSeaweed/personal-cv/releases/latest/download/main.pdf>`_, and profiles on `GitHub <https://github.com/AussieSeaweed>`_, `Google Scholar <https://scholar.google.com/citations?user=iHbLHD0AAAAJ>`_, and `LinkedIn <https://www.linkedin.com/in/aussieseaweed/>`_.
 
