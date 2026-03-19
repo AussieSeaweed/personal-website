@@ -12,7 +12,7 @@ I obtained a BASc in Engineering Science at the University of Toronto, where I c
 My main research topic is computational game theory.
 I'm also interested in computer games and computational social science.
 
-You can see my `CV <https://github.com/AussieSeaweed/personal-cv/releases/latest/download/main.pdf>`_, and profiles on `GitHub <https://github.com/AussieSeaweed>`_, `Google Scholar <https://scholar.google.com/citations?user=iHbLHD0AAAAJ>`_, and `LinkedIn <https://www.linkedin.com/in/aussieseaweed/>`_.
+You can see my `CV <https://github.com/AussieSeaweed/personal-cv/releases/latest/download/main.pdf>`_ and profiles on `GitHub <https://github.com/AussieSeaweed>`_, `Google Scholar <https://scholar.google.com/citations?user=iHbLHD0AAAAJ>`_, and `LinkedIn <https://www.linkedin.com/in/aussieseaweed/>`_.
 
 Please feel free to reach out to me via email (juhok [at] cs [dot] cmu [dot] edu).
 
