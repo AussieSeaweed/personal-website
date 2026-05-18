@@ -18,4 +18,15 @@ Conferences
 Workshops
 ---------
 
-1. **J. Kim** and M. Guerzhoy (2024). `Observing the Southern US Culture of Honor Using Large-Scale Social Media Analysis <https://doi.org/10.18653/v1/2024.sicon-1.1>`_. In: Proceedings of the Workshop on Social Influence in Conversations (SICon).
+1. **J. Kim** and `M. Guerzhoy <https://www.cs.toronto.edu/~guerzhoy/>`_ (2024). `Observing the Southern US Culture of Honor Using Large-Scale Social Media Analysis <https://doi.org/10.18653/v1/2024.sicon-1.1>`_. In: Proceedings of the Workshop on Social Influence in Conversations (SICon).
+
+Working papers
+--------------
+
+4. **J. Kim** and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). `Domain-Independent Game Abstraction using Word Embedding Techniques <https://arxiv.org/abs/2605.15543>`_.
+
+3. **J. Kim** and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). `Watermarking Game-Playing Agents in Perfect-Information Extensive-Form Games <https://arxiv.org/abs/2605.14283>`_.
+
+2. **J. Kim** and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). `Parallelizing Counterfactual Regret Minimization <https://arxiv.org/abs/2605.14277>`_.
+
+1. **J. Kim** and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). `Heuristic Pathologies and Further Variance Reduction via Uncertainty Propagation in the AIVAT Family of Techniques <https://arxiv.org/abs/2605.14261>`_.
