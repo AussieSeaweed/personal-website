@@ -25,7 +25,7 @@ Working papers
 
 4. **J. Kim** and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). `Domain-Independent Game Abstraction using Word Embedding Techniques <https://arxiv.org/abs/2605.15543>`_.
 
-3. **J. Kim** and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). `Watermarking Game-Playing Agents in Perfect-Information Extensive-Form Games <https://arxiv.org/abs/2605.14283>`_.
+3. **J. Kim**, `Fei Fang <https://feifang.info/>`_, and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). `Watermarking Game-Playing Agents in Perfect-Information Extensive-Form Games <https://arxiv.org/abs/2605.14283>`_.
 
 2. **J. Kim** and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). `Parallelizing Counterfactual Regret Minimization <https://arxiv.org/abs/2605.14277>`_.
 
