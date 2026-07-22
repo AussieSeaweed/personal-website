@@ -4,7 +4,7 @@ Publications
 Journals
 --------
 
-2. **J. Kim** (2025). Racialization of the Democratic Peace in Foundational Embedding Models. In: Political Science Research and Methods (PSRM). (Conditionally accepted, pending replication)
+2. **J. Kim** (2025). Racialization of the Democratic Peace in Foundational Embedding Models. In: Political Science Research and Methods (PSRM). (To appear)
 
 1. **J. Kim** (2023). `PokerKit: A Comprehensive Python Library for Fine-Grained Multi-Variant Poker Game Simulations <https://doi.org/10.1109/TG.2023.3325637>`_. In: IEEE Transactions on Games.
 
@@ -22,6 +22,8 @@ Workshops
 
 Working papers
 --------------
+
+5. **J. Kim** and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). Watermarked Game Solving via Perturbed Regret Minimization.
 
 4. **J. Kim** and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). `Domain-Independent Game Abstraction using Word Embedding Techniques <https://arxiv.org/abs/2605.15543>`_.
 
