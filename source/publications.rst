@@ -23,7 +23,7 @@ Workshops
 Working papers
 --------------
 
-5. **J. Kim** and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). Watermarked Game Solving via Perturbed Regret Minimization.
+5. **J. Kim** and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). `Watermarked Game Solving via Perturbed Regret Minimization <https://doi.org/10.48550/arXiv.2608.14977>`_.
 
 4. **J. Kim** and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). `Domain-Independent Game Abstraction using Word Embedding Techniques <https://arxiv.org/abs/2605.15543>`_.
 
