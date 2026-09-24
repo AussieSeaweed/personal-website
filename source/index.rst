@@ -6,8 +6,8 @@
 Main Page
 =========
 
-My name is Juho Kim, and I'm a first-year PhD student in the `Computer Science Department <https://csd.cmu.edu/>`_ at Carnegie Mellon University, advised by `Professor Tuomas Sandholm <https://www.cs.cmu.edu/~sandholm/>`_.
-I obtained a BASc in Engineering Science at the University of Toronto, where I completed my thesis with `Professor Michael Guerzhoy <https://www.cs.toronto.edu/~guerzhoy/>`_ and capstone project with `Professor Michael Stumm <https://www.eecg.toronto.edu/~stumm/>`_.
+My name is Juho Kim, and I'm a second-year PhD student in the `Computer Science Department <https://csd.cmu.edu/>`_ at Carnegie Mellon University, advised by `Professor Tuomas Sandholm <https://www.cs.cmu.edu/~sandholm/>`_.
+I obtained a BASc in Engineering Science at the University of Toronto, where I completed my undergraduate thesis with `Professor Michael Guerzhoy <https://www.cs.toronto.edu/~guerzhoy/>`_ and capstone project with `Professor Michael Stumm <https://www.eecg.toronto.edu/~stumm/>`_.
 
 My main research topic is computational game theory.
 I'm also interested in computer games and computational social science.
@@ -22,6 +22,13 @@ Please feel free to reach out to me via email (juhok [at] cs [dot] cmu [dot] edu
 
    publications
 
+.. .. toctree::
+..    :maxdepth: 2
+..    :hidden:
+..    :caption: Music
+.. 
+..    music/best-recordings
+.. 
 .. .. toctree::
 ..    :maxdepth: 2
 ..    :hidden:
