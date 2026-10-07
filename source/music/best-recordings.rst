@@ -357,7 +357,7 @@ Symphony No. 2 in D major, Op. 36: TODO
 
 Symphony No. 3 in E-flat major, Op. 55, "Eroica": *Honeck/Pittsburgh (Reference Recordings, 2018)*
 
-Symphony No. 4 in B-flat major, Op. 60: TODO
+Symphony No. 4 in B-flat major, Op. 60: Klemperer/Philharmonia Orchestra (Parlophone, 1998)
 
 **Symphony No. 5 in C minor, Op. 67**: **Kleiber/Vienna Phil (DG, 1995)**
 
@@ -764,7 +764,7 @@ Symphony No. 6 in D major, Op. 60, B. 112: TODO
 
 *Symphony No. 7 in D minor, Op. 70, B. 141*: *Dorati/London Symphony Orchestra (Universal, 1992)*
 
-Symphony No. 8 in G major, Op. 88, B. 163: Dorati/London Symphony Orchestra (Universal, 1992)
+Symphony No. 8 in G major, Op. 88, B. 163: Karajan/Wiener Philharmoniker (DG, 1990), Dorati/London Symphony Orchestra (Universal, 1992)
 
 *Symphony No. 9 in E minor, Op. 95, B. 178, "From the New World"*: Bernstein/NY Phil (Sony, 1962)
 
