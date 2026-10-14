@@ -4,9 +4,9 @@ Publications
 Journals
 --------
 
-2. **J. Kim** (2025). `Racialization of the Democratic Peace in Foundational Embedding Models <https://doi.org/10.1017/psrm.2026.10121>`_. In: Political Science Research and Methods.
+2. **J. Kim** (2026). `Racialization of the Democratic Peace in Foundational Embedding Models <https://doi.org/10.1017/psrm.2026.10121>`_. In: Political Science Research and Methods.
 
-1. **J. Kim** (2023). `PokerKit: A Comprehensive Python Library for Fine-Grained Multi-Variant Poker Game Simulations <https://doi.org/10.1109/TG.2023.3325637>`_. In: IEEE Transactions on Games.
+1. **J. Kim** (2025). `PokerKit: A Comprehensive Python Library for Fine-Grained Multi-Variant Poker Game Simulations <https://doi.org/10.1109/TG.2023.3325637>`_. In: IEEE Transactions on Games 17 (1), 32-39.
 
 Conferences
 -----------
