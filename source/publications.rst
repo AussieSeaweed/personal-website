@@ -11,7 +11,7 @@ Journals
 Conferences
 -----------
 
-3. **J. Kim**, `Fei Fang <https://feifang.info/>`_, and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). Watermarking Game-Playing Agents in Perfect-Information Extensive-Form Games. In: Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS). (Acceptance rate: 25.7%)
+3. **J. Kim**, `F. Fang <https://feifang.info/>`_, and `T. Sandholm <https://www.cs.cmu.edu/~sandholm/>`_ (2026). Watermarking Game-Playing Agents in Perfect-Information Extensive-Form Games. In: Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS). (Acceptance rate: 25.7%)
 
 2. **J. Kim** (2025). `Empirical Validation of the Independent Chip Model <https://doi.org/10.1109/CoG64752.2025.11114139>`_. In: Proceedings of the IEEE Conference on Games (CoG). (Short paper, acceptance rate: 42%)
 
