@@ -3,14 +3,230 @@ Best recordings
 
 As you might be able to tell, I like Sultanov, Dorati, and Wagner.
 
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S
+A
+B
+C
+D
+F
+==== ==========
+
 Alkan, Charles-Valentin
 -----------------------
 
-12 Etudes in All the Minor Keys, Op. 39 No. 4-7, "Symphony for Solo Piano": TODO
+Solo Piano
+^^^^^^^^^^
 
-12 Etudes in All the Minor Keys, Op. 39 No. 8-10, "Concerto for Solo Piano": TODO
+Le chemin de fer, Op. 27
 
-*12 Etudes in All the Minor Keys, Op. 39 No. 12 in E minor, "Le festin d'Esope"*: TODO
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S
+A
+B    Martin (Naxos, 1995)
+C
+D    Biret (IBA, 2011)
+F
+==== ==========
+
+12 Etudes in All the Minor Keys, Op. 39 No. 1, "Comme le vent"
+
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S    Gibbons (ASV, 1995)
+A
+B
+C    Maltempo (Piano Classics, 2013)
+D
+F
+==== ==========
+
+12 Etudes in All the Minor Keys, Op. 39 No. 2, "En rhythme molossique"
+
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S    Gibbons (ASV, 1995)
+A
+B    Maltempo (Piano Classics, 2013)
+C
+D
+F
+==== ==========
+
+12 Etudes in All the Minor Keys, Op. 39 No. 3, "Scherzo diabolico"
+
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S    Ringeissen (Naxos, 1995), Gibbons (ASV, 1995)
+A    Maltempo (Piano Classics, 2013)
+B
+C
+D
+F
+==== ==========
+
+12 Etudes in All the Minor Keys, Op. 39 No. 4-7, "Symphony for Solo Piano"
+
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S    Gibbons (ASV, 1995)
+A    Wee (BIS, 2019), Maltempo (Brilliant Classics, 2017)
+B    Hamelin (Hyperion, 2001)
+C    Lewenthal (BMG, 1999)
+D
+F
+==== ==========
+
+12 Etudes in All the Minor Keys, Op. 39 No. 8-10, "Concerto for Solo Piano"
+
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S    Gibbons (ASV, 1995), Wee (BIS, 2019)
+A    Hamelin (Music & Arts, 2011)
+B    Maltempo (Piano Classics, 2013)
+C    Ogdon (RCA, 1968)
+D
+F
+==== ==========
+
+12 Etudes in All the Minor Keys, Op. 39 No. 11, "Ouverture"
+
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S    Gibbons (ASV, 1995)
+A    Maltempo (Brilliant Classics, 2017)
+B
+C
+D
+F
+==== ==========
+
+*12 Etudes in All the Minor Keys, Op. 39 No. 12 in E minor, "Le festin d'Esope"*
+
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S    Maltempo (Brilliant Classics, 2017), Lewenthal (BMG, 1999), Gibbons (ASV, 1995)
+A    Hamelin (Hyperion, 1995)
+B
+C
+D
+F
+==== ==========
+
+Grande Sonate, Op. 33, "Les quatre ages"
+
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S
+A
+B
+C
+D
+F
+TODO Hamelin (Hyperion, 1995), Maltempo (Brilliant Classics, 2017)
+==== ==========
+
+Sonatine in A minor, Op. 61
+
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S
+A
+B
+C
+D
+F
+TODO Hamelin (Hyperion, 1995), Maltempo (Brilliant Classics, 2017), Mastroprimiano (Brilliant Classics, 2017)
+==== ==========
+
+Chamber
+^^^^^^^
+
+Cello Sonata in E major, Op. 47
+
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S
+A
+B
+C
+D
+F
+TODO Bertrand/Amoyel (Harmonia Mundi, 2008), Gerhardt/Osborne (Hyperion, 2008)
+==== ==========
+
+Concertos
+^^^^^^^^^
+
+Concerto da camera in A minor, Op. 10 No. 2
+
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S
+A
+B
+C
+D
+F
+TODO Hamelin (Hyperion, 1994)
+==== ==========
+
+Concerto da camera in C-sharp minor, Op. 10 No. 2
+
+==== ==========
+Tier Recordings
+==== ==========
+SSS
+SS
+S
+A
+B
+C
+D
+F
+TODO Hamelin (Hyperion, 1994)
+==== ==========
 
 Bach, Johann Sebastian
 ----------------------
@@ -355,11 +571,24 @@ Symphony No. 1 in C major, Op. 21: TODO
 
 Symphony No. 2 in D major, Op. 36: TODO
 
-Symphony No. 3 in E-flat major, Op. 55, "Eroica": *Honeck/Pittsburgh (Reference Recordings, 2018)*
+Symphony No. 3 in E-flat major, Op. 55, "Eroica": *Honeck/PSO (Reference Recordings, 2018)*
 
 Symphony No. 4 in B-flat major, Op. 60: Klemperer/Philharmonia Orchestra (Parlophone, 1998)
 
-**Symphony No. 5 in C minor, Op. 67**: **Kleiber/Vienna Phil (DG, 1995)**
+**Symphony No. 5 in C minor, Op. 67**
+
+==== ==========
+Tier Recordings
+==== ==========
+SSS  **Kleiber/VPO (DG, 1995)**
+SS
+S
+A
+B
+C
+D
+F
+==== ==========
 
 Symphony No. 6 in F major, Op. 68, "Pastoral": TODO
 
@@ -1963,33 +2192,33 @@ Violin
 24 Caprices for Solo Violin, MS 25 No. 9 in E major: TODO
 
 24 Caprices for Solo Violin, MS 25 No. 10 in G minor: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 11 in C major: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 12 in A-flat major: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 13 in B-flat major: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 14 in E-flat major: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 15 in E minor: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 16 in G minor: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 17 in E-flat major: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 18 in C major: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 19 in E-flat major: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 20 in D major: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 21 in A major: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 22 in F major: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 23 in E-flat major: TODO
-                                          
+
 24 Caprices for Solo Violin, MS 25 No. 24 in A minor: TODO
 
 Concertos
@@ -2842,51 +3071,51 @@ Piano
 ^^^^^
 
 24 Preludes and Fugues, Op. 87 No. 1 in C major: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 2 in A minor: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 3 in G major: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 4 in E minor: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 5 in D major: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 6 in B minor: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 7 in A major: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 8 in F-sharp minor: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 9 in E major: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 10in  C-sharp minor: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 11in  B major: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 12in  G-sharp minor: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 13in  F-sharp major: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 14in  E-flat minor: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 15in  D-flat major: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 16in  B-flat minor: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 17in  A-flat major: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 18in  F minor: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 19in  E-flat major: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 20in  C minor: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 21in  B-flat major: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 22in  G minor: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 23in  F major: TODO
-                                        
+
 24 Preludes and Fugues, Op. 87 No. 24in  D minor: TODO
 
 Chamber
@@ -3161,8 +3390,8 @@ Symphony No. 5 in E minor, "Op. 64": TODO
 
 1812 Overture: TODO
 
-Concertos and Concertantes
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Concertos
+^^^^^^^^^
 
 *Piano Concerto No. 1 in B-flat minor, Op. 23*: TODO
 
